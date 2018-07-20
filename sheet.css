@@ -18,12 +18,12 @@ body{
   position: relative;
   width: 100vw;
   bottom: 0;
-  z-index: 999;
+  z-index: 10;
   display: grid;
 }
 #footer ul{
   display: grid;
-  grid-template-columns: 1fr 2fr 1.5fr 1fr 2fr;
+  grid-template-columns: 1fr 2fr 1.5fr 1.5fr 2fr;
 }
 #footer ul li{
   background-color: #eeff00;
@@ -172,6 +172,11 @@ body{
   .content .icon-group{
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+@media only screen and (max-width: 820px) {
+  #logo, #logo span{
+    font-size: 2rem;
   }
 }
 @media only screen and (max-width: 770px) {
