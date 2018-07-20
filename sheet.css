@@ -72,6 +72,8 @@ body{
   text-align: center
 }
 .content{
+  overflow-y: scroll;
+  text-align: center;
   display: grid;
   grid-template-rows: .5fr 3fr 2fr .5fr 2fr;
   grid-template-columns: 1fr 4fr 1fr;
@@ -167,11 +169,25 @@ body{
 .introduction a:hover{
   color: #eeff00;
 }
-@media only screen and (max-width: 1272px) {
-
+@media only screen and (max-width: 920px) {
+  .content .icon-group{
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
 }
 @media only screen and (max-width: 770px) {
-
+  .content .icon-group{
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .vuejs{
+    grid-row: 4;
+    grid-column: 2;
+  }
+  #name{
+    grid-row: 3;
+    grid-column: 2;
+  }
 }
 @media only screen and (max-width: 684px) {
 
@@ -182,12 +198,9 @@ body{
   }
   .content{
     font-size: 10px;
+    overflow-x: hidden;
   }
   #footer{
     overflow-x: scroll;
-  }
-  .content{
-    overflow-y: scroll;
-    overflow-x: hidden;
   }
 }
