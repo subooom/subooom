@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Mono');
 #logo{
   font-size: 4rem;
   letter-spacing: 0.6rem;
@@ -10,7 +11,7 @@
   color: #eeff00;
 }
 body{
-	font-family: 'fira code', sans-serif;
+	font-family: 'Fira Mono', monospace;
   overflow-x: hidden;
 }
 #footer{
