@@ -11,16 +11,25 @@
   <!-- Compiled and minified CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
 </head>
-<body class="black">
-    <nav class="black">
+<body class="bgc">
+    <nav class="bgc" style="height: 80px;">
       <div class="nav-wrapper">
         <a href="#" class="brand-logo left" id="logo" >
           <span>{  </span>subooom_<span>  }</span>
         </a>
+        <div class="switch right" id="light-switch">
+          <label>
+            Night
+            <input type="checkbox" id="light-switch-input">
+            <span class="lever"></span>
+            Day
+          </label>
+        </div>
+      </div>
       </div>
     </nav>
 
-  <div id="particle-area" class="particle-area" style="background-color: rgb(0, 0, 0);height:100vh">
+  <div id="particle-area" class="particle-area" style="height:100vh">
     <div id="particles-js"></div>
   </div>
   <div class="content">
@@ -54,7 +63,64 @@
   </footer>
   <script src="particles.min.js"></script>
   <script src="app.js"></script>
+  <script src="cookie.js"></script>
   <!-- Compiled and minified JavaScript -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+
+  <script>
+    changeMode();
+
+    var light_switch = document.getElementById('light-switch-input');
+
+    light_switch.onclick = function(){
+      setCookie('night_mode', light_switch.checked ? true:false, 7);
+      changeMode();
+    };
+    function changeMode(){
+      if(getCookie('night_mode')){
+        document.getElementById('light-switch-input').checked = true;
+        var bg = document.getElementsByClassName('bgc');
+        for(var i =0; i<bg.length; i++){
+          bg[i].style.backgroundColor = '#fff';
+        }
+        var p = document.getElementsByTagName('p');
+        var icon = document.getElementsByTagName('i');
+
+        for(var i =0; i<p.length; i++){
+          p[i].style.color = '#000';
+        }
+        for(var i =0; i<icon.length; i++){
+          icon[i].style.color = '#000';
+        }
+        var footertabs = document.querySelectorAll('footer ul li');
+        for(var i=0; i<footertabs.length; i++){
+          footertabs[i].style.backgroundColor= '#aaf8fb'
+        }
+
+        document.getElementById('particles-js').style.opacity = 0;
+      }else{
+        document.getElementById('light-switch-input').checked = false;
+        var bg = document.getElementsByClassName('bgc');
+        for(var i =0; i<bg.length; i++){
+          bg[i].style.backgroundColor = '#000';
+        }
+        var p = document.getElementsByTagName('p');
+        var icon = document.getElementsByTagName('i');
+
+        for(var i =0; i<p.length; i++){
+          p[i].style.color = '#fff';
+        }
+        for(var i =0; i<icon.length; i++){
+          icon[i].style.color = '#fff';
+        }
+        var footertabs = document.querySelectorAll('footer ul li');
+        for(var i=0; i<footertabs.length; i++){
+          footertabs[i].style.backgroundColor= '#eeff00'
+        }
+
+        document.getElementById('particles-js').style.opacity = 100;
+      }
+    }
+  </script>
 </body>
 </html>

@@ -22,10 +22,10 @@
       </a>
       <div class="switch right" id="light-switch">
         <label>
-          Dark
+          Night
           <input type="checkbox" id="light-switch-input">
           <span class="lever"></span>
-          Light
+          Day
         </label>
       </div>
     </div>
@@ -82,12 +82,10 @@
   <script src="app.js"></script>
   <script src="cookie.js"></script>
   <script>
+    changeMode();
     document.addEventListener('DOMContentLoaded', function() {
-      changeMode();
       var elems = document.querySelectorAll('.tooltipped');
-      var instances = M.Tooltip.init(elems, {
-        html: '<img src="wink.png" />'
-      });
+      var instances = M.Tooltip.init(elems);
     });
     var light_switch = document.getElementById('light-switch-input');
 
@@ -102,7 +100,7 @@
         for(var i =0; i<bg.length; i++){
           bg[i].style.backgroundColor = '#fff';
         }
-        var p = document.getElementsByTagName('P');
+        var p = document.getElementsByTagName('p');
         var icon = document.getElementsByTagName('i');
 
         for(var i =0; i<p.length; i++){
@@ -111,6 +109,11 @@
         for(var i =0; i<icon.length; i++){
           icon[i].style.color = '#000';
         }
+        var footertabs = document.querySelectorAll('footer ul li');
+        for(var i=0; i<footertabs.length; i++){
+          footertabs[i].style.backgroundColor= '#aaf8fb'
+        }
+
         document.getElementById('particles-js').style.opacity = 0;
       }else{
         document.getElementById('light-switch-input').checked = false;
@@ -127,6 +130,11 @@
         for(var i =0; i<icon.length; i++){
           icon[i].style.color = '#fff';
         }
+        var footertabs = document.querySelectorAll('footer ul li');
+        for(var i=0; i<footertabs.length; i++){
+          footertabs[i].style.backgroundColor= '#eeff00'
+        }
+
         document.getElementById('particles-js').style.opacity = 100;
       }
     }
