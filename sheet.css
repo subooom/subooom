@@ -226,7 +226,6 @@ body{
     overflow-x: scroll;
   }
   #footer ul{
-    grid-template-columns: 1fr 1fr 1fr;
   }
   #footer ul li a{
     font-size: 20px;
