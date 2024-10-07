@@ -1,3 +1,5 @@
+  <a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?r=y6h" width="356" alt="Subham Kharel's Dev Card"/></a>
+
 - 👋 Hi, I’m @subooom
 - 👀 I’m interested in creating an impact that moves people.
 - 🌱 I’m currently learning NestJS.
