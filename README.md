@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?r=y6h&type=wide" width="652" alt="Subham Kharel's Dev Card"/></a>
 
 <p align="center">
  <a href="#"><img width="175px" height="auto" src="https://avatars.githubusercontent.com/u/18305059?v=4&size=200" /></a>
@@ -8,6 +7,9 @@
 
 <p align="center">
  ⭐<a href="https://github.com/subooom/nestjs-boilerplate"> Star my NestJs Boilerplate </a>⭐<br/>
+</p>
+<p align="center">
+ <a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?r=y6h&type=wide" width="652" alt="Subham Kharel's Dev Card"/></a>
 </p>
 
 # What people have said about working with me 
