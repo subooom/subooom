@@ -9,7 +9,7 @@
  ⭐<a href="https://github.com/subooom/nestjs-boilerplate"> Star my NestJs Boilerplate </a>⭐<br/>
 </p>
 <p align="center">
- <a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?r=y6h&type=wide" width="652" alt="Subham Kharel's Dev Card"/></a>
+ <a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?type=default&r=bw8" width="356" alt="Subham Kharel's Dev Card"/></a>
 </p>
 
 # What people have said about working with me 
