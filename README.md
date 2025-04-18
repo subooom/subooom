@@ -1,3 +1,15 @@
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="175px" src="https://avatars.githubusercontent.com/u/18305059?v=4&size=200" />
+    </td>
+    <td align="center">
+      <a href="https://app.daily.dev/kharel">
+        <img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?type=default&r=bw8" width="356" alt="Subham Kharel's Dev Card"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1.5rem;">
  <p align="center">
   <a href="#"><img width="175px" height="auto" src="https://avatars.githubusercontent.com/u/18305059?v=4&size=200" /></a>
