@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; gap: 1.5rem;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 1.5rem;">
  <p align="center">
   <a href="#"><img width="175px" height="auto" src="https://avatars.githubusercontent.com/u/18305059?v=4&size=200" /></a>
  </p>
