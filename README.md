@@ -14,16 +14,16 @@ https://miro.medium.com/v2/resize:fill:88:88/1*ifPziSMdIUmJqzFFTjh_tw.jpeg
 </p>
 
 # What people have said about working with me 
- <p><i>⭐⭐⭐⭐⭐ "Subham has developed our website from start to finish and has done an excellent job. He has dealt immediately with any glitches and has left us with a fully functional website built from the ground up by Subham."</i></p>
- <p><i>⭐⭐⭐⭐⭐ "Subham is not just a genius; he consistently goes above and beyond expectations. He possesses exceptional development skills and demonstrated remarkable speed in fulfilling all project requirements. Throughout the process, his communication was top-notch, fostering a smooth collaboration. I wholeheartedly recommend hiring him, and we eagerly anticipate the opportunity to work with him again in the future."</i></p>
+ <p><i>⭐⭐⭐⭐⭐ "Subham has developed our website from start to finish and has done an excellent job. He immediately dealt with glitches and left us with a fully functional website built from the ground up by Subham."</i></p>
+ <p><i>⭐⭐⭐⭐⭐ "Subham is not just a genius; he consistently goes above and beyond expectations. He possesses exceptional development skills and has demonstrated remarkable speed in fulfilling all project requirements. Throughout the process, his communication was top-notch, fostering a smooth collaboration. I wholeheartedly recommend hiring him, and we eagerly anticipate the opportunity to work with him again in the future."</i></p>
  <p><i>⭐⭐⭐⭐⭐ "
-Excellent work from Subham. A quick delivery and continued support on our web app. He solved a really complex problem for our business that other developers couldn’t."</i></p>
+Excellent work from Subham. A quick delivery and continued support on our web app. He solved a complex problem for our business that other developers couldn’t."</i></p>
  <p><i>⭐⭐⭐⭐⭐ "
-Mr. Subham Kharel is a very good developer able to solve problems with a rational and intelligent approach. I enjoyed working with him and will work again with."</i></p>
+Mr. Subham Kharel is a very good developer, able to solve problems with a rational and intelligent approach. I enjoyed working with him and will work again with."</i></p>
  
 # 💻 My Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NextJs](https://img.shields.io/badge/next.js-%23593d88.svg?style=for-the-badge&logo=nextdotjs&logoColor=%000000) ![NestJS](https://img.shields.io/badge/nestjs-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=%E0234E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-6DA55F?style=for-the-badge&logo=node.js&logoColor=%FF2D20) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NextJs](https://img.shields.io/badge/next.js-%23593d88.svg?style=for-the-badge&logo=next.js&logoColor=%000000) ![NestJS](https://img.shields.io/badge/nestjs-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=%E0234E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-6DA55F?style=for-the-badge&logo=node.js&logoColor=%FF2D20) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daboigbae&icon=0&color=0)](https://visitcount.itsvg.in)
