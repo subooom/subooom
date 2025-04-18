@@ -1,16 +1,4 @@
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="175px" src="https://avatars.githubusercontent.com/u/18305059?v=4&size=200" />
-    </td>
-    <td align="center">
-      <a href="https://app.daily.dev/kharel">
-        <img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?type=default&r=bw8" width="356" alt="Subham Kharel's Dev Card"/>
-      </a>
-    </td>
-  </tr>
-</table>
-<div style="display: flex; flex-direction: row; align-items: center; gap: 1.5rem;">
+
  <p align="center">
   <a href="#"><img width="175px" height="auto" src="https://avatars.githubusercontent.com/u/18305059?v=4&size=200" /></a>
  </p>
@@ -20,10 +8,11 @@
  <p align="center">
   ⭐<a href="https://github.com/subooom/nestjs-boilerplate"> Star my NestJs Boilerplate </a>⭐<br/>
  </p>
+ 
  <p align="center">
   <a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?type=default&r=bw8" width="356" alt="Subham Kharel's Dev Card"/></a>
  </p>
-</div>
+ 
 # What people have said about working with me 
  <p><i>⭐⭐⭐⭐⭐ "Subham has developed our website from start to finish and has done an excellent job. He immediately dealt with glitches and left us with a fully functional website built from the ground up by Subham."</i></p>
  <p><i>⭐⭐⭐⭐⭐ "Subham is not just a genius; he consistently goes above and beyond expectations. He possesses exceptional development skills and has demonstrated remarkable speed in fulfilling all project requirements. Throughout the process, his communication was top-notch, fostering a smooth collaboration. I wholeheartedly recommend hiring him, and we eagerly anticipate the opportunity to work with him again in the future."</i></p>
