@@ -1,17 +1,14 @@
 
  <p align="center">
   <a href="#"><img width="175px" height="auto" src="https://avatars.githubusercontent.com/u/18305059?v=4&size=200" /></a>
- </p>
- <h3 align="center">Hi there, I'm Subham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
- </h3>
- 
- <p align="center">
+  <h3 align="center">Hi there, I'm Subham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+  </h3>
+  
   ⭐<a href="https://github.com/subooom/nestjs-boilerplate"> Star my NestJs Boilerplate </a>⭐<br/>
- </p>
- 
- <p align="center">
+
   <a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?type=default&r=bw8" width="356" alt="Subham Kharel's Dev Card"/></a>
  </p>
+ 
  
 # What people have said about working with me 
  <p><i>⭐⭐⭐⭐⭐ "Subham has developed our website from start to finish and has done an excellent job. He immediately dealt with glitches and left us with a fully functional website built from the ground up by Subham."</i></p>
