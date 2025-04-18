@@ -1,12 +1,51 @@
   <a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?r=y6h&type=wide" width="652" alt="Subham Kharel's Dev Card"/></a>
 
-- 👋 Hi, I’m @subooom
-- 👀 I’m interested in creating an impact that moves people.
-- 🌱 I’m currently learning NestJS.
-- 💞️ I’m looking to collaborate on projects that do good to the people.
-- 📫 How to reach me subhamkharel12@gmail.com
+<p align="center">
+ <a href="#"><img width="175px" height="auto" src="
+https://miro.medium.com/v2/resize:fill:88:88/1*ifPziSMdIUmJqzFFTjh_tw.jpeg
 
-<!---
-subooom/subooom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+" /></a>
+</p>
+<h3 align="center">Hi there, I'm Subham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+</h3>
+
+<p align="center">
+ ⭐<a href="https://github.com/subooom/nestjs-boilerplate"> Star my NestJs Boilerplate </a>⭐<br/>
+</p>
+
+# What people have said about working with me 
+ <p><i>⭐⭐⭐⭐⭐ "Subham has developed our website from start to finish and has done an excellent job. He has dealt immediately with any glitches and has left us with a fully functional website built from the ground up by Subham."</i></p>
+ <p><i>⭐⭐⭐⭐⭐ "Subham is not just a genius; he consistently goes above and beyond expectations. He possesses exceptional development skills and demonstrated remarkable speed in fulfilling all project requirements. Throughout the process, his communication was top-notch, fostering a smooth collaboration. I wholeheartedly recommend hiring him, and we eagerly anticipate the opportunity to work with him again in the future."</i></p>
+ <p><i>⭐⭐⭐⭐⭐ "
+Excellent work from Subham. A quick delivery and continued support on our web app. He solved a really complex problem for our business that other developers couldn’t."</i></p>
+ <p><i>⭐⭐⭐⭐⭐ "
+Mr. Subham Kharel is a very good developer able to solve problems with a rational and intelligent approach. I enjoyed working with him and will work again with."</i></p>
+ 
+# 💻 My Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+ ![NextJs](https://img.shields.io/badge/next.js-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+
+ ![NestJS](https://img.shields.io/badge/nest.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+![Laravel](https://img.shields.io/badge/laravel-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+[![](https://visitcount.itsvg.in/api?id=daboigbae&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daboigbae) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-higareda-70971259/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daboigbae) 
+
+
