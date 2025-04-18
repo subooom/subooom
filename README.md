@@ -21,10 +21,32 @@ Excellent work from Subham. A quick delivery and continued support on our web ap
  <p><i>⭐⭐⭐⭐⭐ "
 Mr. Subham Kharel is a very good developer, able to solve problems with a rational and intelligent approach. I enjoyed working with him and will work again with."</i></p>
  
-# 💻 My Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NextJs](https://img.shields.io/badge/nextdotjs-%23593d88.svg?style=for-the-badge&logo=nextdotjs&logoColor=%000000) ![NestJS](https://img.shields.io/badge/nestjs-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=%E0234E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-6DA55F?style=for-the-badge&logo=node.js&logoColor=%FF2D20) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 💻 My Tech Stack
 
+## 🌈 Frontend
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%23000000.svg?style=for-the-badge&logo=radixui&logoColor=white)
+
+## 🏗️ Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NestJS](https://img.shields.io/badge/nestjs-%2320232a.svg?style=for-the-badge&logo=nestjs&logoColor=%E0234E) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+## 🗃️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+
+## 🚀 Deployment & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ---
 [![](https://visitcount.itsvg.in/api?id=daboigbae&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/subooom) 
