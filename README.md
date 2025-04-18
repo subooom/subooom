@@ -24,9 +24,9 @@ Mr. Subham Kharel is a very good developer able to solve problems with a rationa
 # 💻 My Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
- ![NextJs](https://img.shields.io/badge/next.js-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+ ![NextJs](https://img.shields.io/badge/next.js-%23593d88.svg?style=for-the-badge&logo=next.js&logoColor=white) 
 
- ![NestJS](https://img.shields.io/badge/nest.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![NestJS](https://img.shields.io/badge/nest.js-%2320232a.svg?style=for-the-badge&logo=nest.js&logoColor=%2361DAFB)
 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,7 +45,5 @@ Mr. Subham Kharel is a very good developer able to solve problems with a rationa
 
 ---
 [![](https://visitcount.itsvg.in/api?id=daboigbae&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@daboigbae) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-higareda-70971259/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daboigbae) 
-
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/subooom) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-kharel/)
