@@ -1,4 +1,4 @@
-  <a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?r=y6h&type=wide" width="652" alt="Subham Kharel's Dev Card"/></a>
+<a href="https://app.daily.dev/kharel"><img src="https://api.daily.dev/devcards/v2/TwPyXuEDlrxkjqRttzxWJ.png?r=y6h&type=wide" width="652" alt="Subham Kharel's Dev Card"/></a>
 
 <p align="center">
  <a href="#"><img width="175px" height="auto" src="
